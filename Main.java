@@ -13,11 +13,11 @@ class Main
          
         //check condition for +ve, -ve and Zero
         if(num1>0)
-            System.out.println(num1 + " is POSITIVE NUMBER.");
+            System.out.println(num1 + " is POSITIVE ");
         else if(num1<0)
-            System.out.println(num1 + " is NEGATIVE NUMBER.");
+            System.out.println(num1 + " is NEGATIVE ");
         else
-            System.out.println("IT's ZERO.");
+            System.out.println("IT's ZERO");
          
     }
 }
