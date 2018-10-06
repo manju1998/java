@@ -9,7 +9,7 @@ class Main
         Scanner sc=new Scanner(System.in);
          
         
-        num=sc.nextInt();
+        num1=sc.nextInt();
          
         //check condition for +ve, -ve and Zero
         if(num1>0)
