@@ -8,6 +8,8 @@ class EvenOdd {
 
         
         int num = reader.nextInt();
+        if(num <0)
+            System.out.println(num + " is invalid");
 
         if(num % 2 == 0)
             System.out.println(num + " is even");
